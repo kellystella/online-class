@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(243, 233, 233);
+    margin: 0%;
+}
+
+.firstsection{
+    height: 480px;
+    border: 3px solid black;
+    display: flex;
+
+}
+
+.first-section-right{
+ width:50%;
+ height: 100%;
+ background:  url(neat-house\ 7.jpg) ;
+ background-position: bottom right;
+ background-size: cover;
+}
+.first-section-left{
+    background: red;
+    width: 50%;
+    height: 100%;
+    background-position: bottom right;
+    background-size: cover;
+}
