@@ -1,6 +1,7 @@
 body{
     background-color: rgb(243, 233, 233);
     margin: 0%;
+    
 }
 
 .firstsection{
@@ -18,9 +19,24 @@ body{
  background-size: cover;
 }
 .first-section-left{
-    background: red;
+    background: rgba(216, 212, 212, 0.918);
     width: 50%;
     height: 100%;
-    background-position: bottom right;
-    background-size: cover;
+}
+span{
+    color: red;
+}
+.logotext{
+    margin-bottom: 10px;
+}
+.line{
+    height: 10px;
+    width: 70px;
+    background: rgb(243, 104, 53);
+}
+.Link-holder{
+    border: solid black;
+    color:white;
+    display: flex;
+    justify-content: space-between;
 }
