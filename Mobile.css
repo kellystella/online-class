@@ -1,0 +1,13 @@
+.linkholder{
+    flex-direction: column;
+    padding-left: 40px;
+}
+.logotext{
+    margin-bottom: 20px;
+}
+.heading{
+    font-size: 25px;
+}
+.link-holder h4 {
+    margin-bottom: 20px;
+}
