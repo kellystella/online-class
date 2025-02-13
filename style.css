@@ -81,12 +81,15 @@ img{
 
 /* third section styles starts here */
 .third-section{
+    border: 3px solid black;
     height:500px ;
     display: flex;
+    flex-direction: row-reverse;
     justify-content: center;
-    padding-top: 50px;
+    align-items: center;
     flex-wrap: wrap;
-    gap: 10px;
+    padding: 50% 0%;
+    
 
 }
 .third-section-right{
