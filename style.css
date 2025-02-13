@@ -13,7 +13,7 @@ body{
 }
 
 .first-section-right{
- width:50%;
+ width:40%;
  height: 100%;
  background:  url(neat-house\ 7.jpg) ;
  background-position: bottom right;
@@ -22,7 +22,7 @@ body{
 .first-section-left{
     padding-left: 30px ;
     background: rgba(216, 212, 212, 0.918);
-    width: 50%;
+    width: 60%;
     height: 100%;
 }
 span{
@@ -51,22 +51,23 @@ span{
     justify-content: center;
     align-items: center;
     padding: 50px 0;
-    gap: 10px;
+    gap: 20px;
+    padding-bottom: 80%;
+
   
 
 }
 .secondsection-right{
+    background: #D9D9D9;
     width: 280px ;
     height: 350px;
     margin-right: 20px;
     padding: 30px 20px;
-    background: #D9D9D9;
+    gap: 50%;
+    
     
 }
-.secondsection-right h4{
-   
 
-}
 .secondsection-left{
     width: 340px;
     height: 460px;
@@ -77,10 +78,21 @@ img{
     width: 100%;
     height: 100%;
 }
+/* .MEANS{
+border: 3px solid purple;
+color: red;
+margin-top: 37%;
+margin-right: 10%;
+justify-content: left ; */
+
+    
+
+
 /* first section styles ends here */
 
 /* third section styles starts here */
 .third-section{
+    background: #D9D9D9;
     border: 3px solid black;
     height:500px ;
     display: flex;
@@ -88,7 +100,7 @@ img{
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    padding: 50% 0%;
+    /* padding: 50% 0%; */
     
 
 }
@@ -108,3 +120,10 @@ img{
     padding: 20px 20px; 
 }
 /* third section styles ends here */
+/* footer section styles ends here */
+.footer-icon{
+    border: 3px solid tomato;
+    width: 20%;
+    height: 100%;
+}
+/* footersection styles ends here */

@@ -22,6 +22,7 @@
 }
 .secondsection{
     margin-bottom: 20px;
+    padding-bottom: 80%;
 }
 .secondsection-right{
     margin-left: 20px;
@@ -29,8 +30,7 @@
 }
 .third-section{
 flex-direction: column-reverse;
-padding: 200% 0px;
-background:#b17979;
+
 }
 
 }
