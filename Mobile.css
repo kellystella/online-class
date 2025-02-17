@@ -25,8 +25,11 @@
     padding-bottom: 80%;
 }
 .secondsection-right{
-    margin-left: 20px;
+    margin-left: 50px;
     margin-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    
 }
 .third-section{
 flex-direction: column-reverse;
